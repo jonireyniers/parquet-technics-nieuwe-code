@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jonireyniers.github.io/parquet-technics-nieuwe-code/sitemap.xml
